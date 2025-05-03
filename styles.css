@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color:gray;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+ }
+
+ nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #f86605;
+        }
+
+p{
+   text-align: center;
+}
+
+img{
+ border:solid green 3px;
+}
+
+p{
+ font-size: 19px;
+}
